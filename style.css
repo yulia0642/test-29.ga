@@ -38,7 +38,7 @@ body{
 .btn{
     position: absolute;
     bottom:-80px;
-    background-color: orangered;
+    background-color: #E0FFFF;
     color:white;
     padding:10px 20px;
     border-radius: 5px;
